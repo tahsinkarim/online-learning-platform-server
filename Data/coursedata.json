@@ -1,7 +1,7 @@
 [
   {
     "id": "6356b7d03e80584c49eb471e",
-    "course_id": 1,
+    "course_id": "1",
     "total_ratings": 500,
     "time": 7,
     "goals": [
@@ -19,7 +19,7 @@
   },
   {
     "id": "6356b7d045ac083b266cf9e5",
-    "course_id": 2,
+    "course_id": "2",
     "total_ratings": 500,
     "time": 7,
     "goals": [
@@ -37,7 +37,7 @@
   },
   {
     "id": "6356b7d014007ea1df5e671c",
-    "course_id": 3,
+    "course_id": "3",
     "total_ratings": 500,
     "time": 7,
     "goals": [
@@ -55,7 +55,7 @@
   },
   {
     "id": "6356b7d0be948f97dcf39b7b",
-    "course_id": 4,
+    "course_id": "4",
     "total_ratings": 500,
     "time": 7,
     "goals": [
@@ -73,7 +73,7 @@
   },
   {
     "id": "6356b7d0b30abc737f4c1528",
-    "course_id": 5,
+    "course_id": "5",
     "total_ratings": 500,
     "time": 7,
     "goals": [
@@ -92,7 +92,7 @@
   },
   {
     "id": "6356b7d08093d33288ef0876",
-    "course_id": 6,
+    "course_id": "6",
     "total_ratings": 500,
     "time": 7,
     "goals": [
