@@ -2,6 +2,7 @@
   {
     "id": "01",
     "title": "Learn Advanced HTML and CSS Concepts",
+    "img": "https://i.ibb.co/vQ6DqLv/ezgif-1-fabab2f2a2.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -11,6 +12,7 @@
   {
     "id": "02",
     "title": "Learn JavaScript Basics",
+    "img": "https://i.ibb.co/hgknQLJ/ezgif-1-970ab2557b.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -20,6 +22,7 @@
   {
     "id": "03",
     "title": "Advanced React Concepts",
+    "img": "https://i.ibb.co/hfMThYM/ezgif-1-398e75cf62.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -29,6 +32,7 @@
   {
     "id": "04",
     "title": "Advanced Practical JavaScript",
+    "img": "https://i.ibb.co/PNrLbY2/ezgif-1-454bc8eba0.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -38,6 +42,7 @@
   {
     "id": "05",
     "title": "React Query - The standard way to make network requests in React",
+    "img": "https://i.ibb.co/QFpmCJj/ezgif-1-bdbcf3d420.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -47,6 +52,7 @@
   {
     "id": "06",
     "title": "Learn Tailwind CSS 3 - A utility-first CSS framework",
+    "img": "https://i.ibb.co/JC22SCb/ezgif-1-fe8c51425c.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
