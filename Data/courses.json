@@ -11,8 +11,8 @@
   },
   {
     "id": "2",
-    "title": "Learn JavaScript Basics",
-    "img": "https://i.ibb.co/hgknQLJ/ezgif-1-970ab2557b.jpg",
+    "title": "Learn Python 3 From Scratch: Python Basics And Fundamentals",
+    "img": "https://i.ibb.co/GxvVRB6/ezgif-3-de9e21a43c.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -31,8 +31,8 @@
   },
   {
     "id": "4",
-    "title": "Advanced Practical JavaScript",
-    "img": "https://i.ibb.co/PNrLbY2/ezgif-1-454bc8eba0.jpg",
+    "title": "Advanced Node.js Course",
+    "img": "https://i.ibb.co/10MY3gn/ezgif-3-8bb79f1e9f.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,

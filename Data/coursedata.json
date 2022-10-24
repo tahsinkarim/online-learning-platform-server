@@ -23,12 +23,11 @@
     "total_ratings": 500,
     "time": 7,
     "goals": [
-      "Go from a total beginner to someone who understands JavaScript",
-      "Programming fundamentals: variables, conditionals, data structures",
-      "ES6+ JavaScript syntax",
-      "Practice your new skills with coding challenges"
+      "Python 3 fundamentals",
+      "How to work with loops, variables, data types, etc. in Python",
+      "Strings and list fundamentals"
     ],
-    "description": "JavaScript is the obvious next step once you learn HTML and CSS. However, it is super important to learn JavaScript by practicing and fun exercises along the way. This course does exactly that. You will be introduced to core JavaScript concepts and would be allowed to practice them as we progress with the course.",
+    "description": "Welcome to the Python Mastery learning path. This is the first of many courses that are practical and hands-on and will help you to learn python efficiently. The course contains multiple exercises in the form of hands-on practice and is perfectly suitable if you're learning Python for the first time. This course is divided into 3 sections. ",
     "author": {
       "name": "Team Code It",
       "description": "Official courses from Team Code It",
@@ -59,12 +58,12 @@
     "total_ratings": 500,
     "time": 7,
     "goals": [
-      "Promises and async-await - learn them hands-on",
-      "Prototypal inheritence, objects and common pitfalls",
-      "Arrays and manipulation",
-      "Generators, iterators, DOM manipulation, and more!"
+      "What exactly is Node.js",
+      "How Node.js I/O works with libuv",
+      "OS level multi-threading with single threaded Node.js",
+      "Event loop"
     ],
-    "description": "This is the best course you'll find on advanced and modern JavaScript which includes relevant, no BS information. You'll learn a lot about: Promises - what they are, how they work under the hood, how to work with them and convert legacy APIs to promises, Async-await - Converting promises into async-await for better readability, Prototypal inheritance model of JavaScript - how JavaScript objects really work, DOM - Manipulating elements, event capturing and bubbling, strict mode, and JSON parsing, Equality checks, weird side of JavaScript, Iterators and generators And so much more!",
+    "description": "Node.js is a runtime built on top of JavaScript (V8) + libuv. It provides an excellent way to create I/O driven tasks and in this free advanced course, we will take a look inside a few internals of Node.js. Let's start.",
     "author": {
       "name": "Team Code It",
       "description": "Official courses from Team Code It",
