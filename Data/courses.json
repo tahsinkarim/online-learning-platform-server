@@ -1,10 +1,56 @@
 [
   {
-    "id": "6356aaed889f4b19253a379c",
-    "name": "course name"
+    "id": "01",
+    "title": "Learn Advanced HTML and CSS Concepts",
+    "author": "Team Code It",
+    "rating": 4.5,
+    "enrolled": 200,
+    "price": 1500,
+    "previous_price": 2500
   },
   {
-    "id": "6356aaed18062e0540005fd3",
-    "name": "course name"
+    "id": "02",
+    "title": "Learn JavaScript Basics",
+    "author": "Team Code It",
+    "rating": 4.5,
+    "enrolled": 200,
+    "price": 800,
+    "previous_price": 1600
+  },
+  {
+    "id": "03",
+    "title": "Advanced React Concepts",
+    "author": "Team Code It",
+    "rating": 4.5,
+    "enrolled": 200,
+    "price": 1500,
+    "previous_price": 2500
+  },
+  {
+    "id": "04",
+    "title": "Advanced Practical JavaScript",
+    "author": "Team Code It",
+    "rating": 4.5,
+    "enrolled": 200,
+    "price": 1500,
+    "previous_price": 2500
+  },
+  {
+    "id": "05",
+    "title": "React Query - The standard way to make network requests in React",
+    "author": "Team Code It",
+    "rating": 4.5,
+    "enrolled": 200,
+    "price": 1500,
+    "previous_price": 2500
+  },
+  {
+    "id": "06",
+    "title": "Learn Tailwind CSS 3 - A utility-first CSS framework",
+    "author": "Team Code It",
+    "rating": 4.5,
+    "enrolled": 200,
+    "price": 1500,
+    "previous_price": 2500
   }
 ]
