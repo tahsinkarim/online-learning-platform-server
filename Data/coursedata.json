@@ -1,0 +1,111 @@
+[
+  {
+    "id": "6356b7d03e80584c49eb471e",
+    "course_id": 1,
+    "total_ratings": 500,
+    "time": 7,
+    "goals": [
+      "Variables in CSS",
+      "Common CSS functions",
+      "Making responsive websites with media queries",
+      "Meta tags, animations in CSS3, and more"
+    ],
+    "description": "Basic HTML and CSS is a great start for frontend web development. However you should learn about semantic HTML, variables in CSS, functions and how to stay up to date with all these changes.",
+    "author": {
+      "name": "Team Code It",
+      "description": "Official courses from Team Code It",
+      "details": "Hi! Were team code It - and we are developers, creators, designers building the best interactive programming courses on the planet. Sign up for a free account on code It to stay in touch."
+    }
+  },
+  {
+    "id": "6356b7d045ac083b266cf9e5",
+    "course_id": 2,
+    "total_ratings": 500,
+    "time": 7,
+    "goals": [
+      "Go from a total beginner to someone who understands JavaScript",
+      "Programming fundamentals: variables, conditionals, data structures",
+      "ES6+ JavaScript syntax",
+      "Practice your new skills with coding challenges"
+    ],
+    "description": "JavaScript is the obvious next step once you learn HTML and CSS. However, it is super important to learn JavaScript by practicing and fun exercises along the way. This course does exactly that. You will be introduced to core JavaScript concepts and would be allowed to practice them as we progress with the course.",
+    "author": {
+      "name": "Team Code It",
+      "description": "Official courses from Team Code It",
+      "details": "Hi! Were team code It - and we are developers, creators, designers building the best interactive programming courses on the planet. Sign up for a free account on code It to stay in touch."
+    }
+  },
+  {
+    "id": "6356b7d014007ea1df5e671c",
+    "course_id": 3,
+    "total_ratings": 500,
+    "time": 7,
+    "goals": [
+      "React Patterns",
+      "Performance improvements",
+      "Popular ecosystem libraries",
+      "Testing React apps"
+    ],
+    "description": "This is the course from React Mastery learning path in which we will discuss a lot of under the hood stuff in React. Starting with Advanced React Patterns, we will discuss what React is and how the functional components work under the hood, alongside discussing a few advanced patterns and ways to work with React components. Then we will cover a few tips on improving React performance by memoization and properly measuring how your renders happen. We will also cover the popular React ecosystem - react-query, Material UI, Tailwind CSS, and Redux with the information on what you should use and when. Finally, we will cover how you should test your React apps for maximum confidence in production and shipping. Ready to start your journey?",
+    "author": {
+      "name": "Team Code It",
+      "description": "Official courses from Team Code It",
+      "details": "Hi! Were team code It - and we are developers, creators, designers building the best interactive programming courses on the planet. Sign up for a free account on code It to stay in touch."
+    }
+  },
+  {
+    "id": "6356b7d0be948f97dcf39b7b",
+    "course_id": 4,
+    "total_ratings": 500,
+    "time": 7,
+    "goals": [
+      "Promises and async-await - learn them hands-on",
+      "Prototypal inheritence, objects and common pitfalls",
+      "Arrays and manipulation",
+      "Generators, iterators, DOM manipulation, and more!"
+    ],
+    "description": "This is the best course you'll find on advanced and modern JavaScript which includes relevant, no BS information. You'll learn a lot about: Promises - what they are, how they work under the hood, how to work with them and convert legacy APIs to promises, Async-await - Converting promises into async-await for better readability, Prototypal inheritance model of JavaScript - how JavaScript objects really work, DOM - Manipulating elements, event capturing and bubbling, strict mode, and JSON parsing, Equality checks, weird side of JavaScript, Iterators and generators And so much more!",
+    "author": {
+      "name": "Team Code It",
+      "description": "Official courses from Team Code It",
+      "details": "Hi! Were team code It - and we are developers, creators, designers building the best interactive programming courses on the planet. Sign up for a free account on code It to stay in touch."
+    }
+  },
+  {
+    "id": "6356b7d0b30abc737f4c1528",
+    "course_id": 5,
+    "total_ratings": 500,
+    "time": 7,
+    "goals": [
+      "What is React Query and why we need it",
+      "Internals of react-query v3",
+      "Debugging queries and mutations using devtools",
+      "How caching works in react-query",
+      "Sharing data across multiple components without making multiple requests"
+    ],
+    "description": "Get performant and powerful data synchronization for React using react-query. React query is a library built for react and Next.js codebases that comes baked in with all the best practices you should follow while making network requests: Caching , Devtools , Automatic data invaldation, Stale while revalidate, And much more",
+    "author": {
+      "name": "Team Code It",
+      "description": "Official courses from Team Code It",
+      "details": "Hi! Were team code It - and we are developers, creators, designers building the best interactive programming courses on the planet. Sign up for a free account on code It to stay in touch."
+    }
+  },
+  {
+    "id": "6356b7d08093d33288ef0876",
+    "course_id": 6,
+    "total_ratings": 500,
+    "time": 7,
+    "goals": [
+      "Tailwind CSS fundamentals",
+      "Building components with tailwind",
+      "New tailwind CSS features and how to use it in your projects",
+      "Working with React + Tailwind CSS"
+    ],
+    "description": "Tailwind CSS is a lightweight utility first framework for building stunning landing pages without writing all CSS by hand. Based around the concept of modular components and built upon normalize.css, tailwind comes with a handful of useful defaults (e.g., brand colors, typography, and spacing), making it easy to get started. In this interactive course, you'd be practicing + building apps with Tailwind CSS v3 - the latest version of tailwind.",
+    "author": {
+      "name": "Team Code It",
+      "description": "Official courses from Team Code It",
+      "details": "Hi! Were team code It - and we are developers, creators, designers building the best interactive programming courses on the planet. Sign up for a free account on code It to stay in touch."
+    }
+  }
+]
