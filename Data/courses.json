@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Learn Advanced HTML and CSS Concepts",
-    "img": "https://i.ibb.co/vQ6DqLv/ezgif-1-fabab2f2a2.jpg",
+    "img": "https://i.postimg.cc/HLVtCRhm/html.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -12,7 +12,7 @@
   {
     "id": "2",
     "title": "Learn Python 3 From Scratch: Python Basics And Fundamentals",
-    "img": "https://i.ibb.co/GxvVRB6/ezgif-3-de9e21a43c.jpg",
+    "img": "https://i.postimg.cc/CKXsM73q/python.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -22,7 +22,7 @@
   {
     "id": "3",
     "title": "Advanced React Concepts",
-    "img": "https://i.ibb.co/hfMThYM/ezgif-1-398e75cf62.jpg",
+    "img": "https://i.postimg.cc/SQWfqWDn/react.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -32,7 +32,7 @@
   {
     "id": "4",
     "title": "Advanced Node.js Course",
-    "img": "https://i.ibb.co/10MY3gn/ezgif-3-8bb79f1e9f.jpg",
+    "img": "https://i.postimg.cc/RFtQWfmb/node.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -42,7 +42,7 @@
   {
     "id": "5",
     "title": "React Query - The standard way to make network requests in React",
-    "img": "https://i.ibb.co/QFpmCJj/ezgif-1-bdbcf3d420.jpg",
+    "img": "https://i.postimg.cc/1XZ0wt5R/query.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
@@ -52,7 +52,7 @@
   {
     "id": "6",
     "title": "Learn Tailwind CSS 3 - A utility-first CSS framework",
-    "img": "https://i.ibb.co/JC22SCb/ezgif-1-fe8c51425c.jpg",
+    "img": "https://i.postimg.cc/D0drgT8r/tailwind.jpg",
     "author": "Team Code It",
     "rating": 4.5,
     "enrolled": 200,
